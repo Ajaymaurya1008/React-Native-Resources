@@ -44,3 +44,9 @@
 13. **[Tata Play](https://www.tata.com/newsroom)**
 14. **[Evernote](https://evernote.com/blog/category/behind-the-scenes/)**
 15. **[FanCode](https://medium.com/@FanCode)**
+16. **[Zepto](https://www.zeptonow.com/)**
+17. **[Super.money](https://super.money)**
+18. **[Upgrad](https://www.upgrad.com)**
+19. **[Kirana.club](https://kirana.club)**
+20. **[Blue Sky](https://bsky.app)**
+21. **[Lokal](https://www.getlokalapp.com)**
