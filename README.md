@@ -50,3 +50,9 @@
 19. **[Kirana.club](https://kirana.club)**
 20. **[Blue Sky](https://bsky.app)**
 21. **[Lokal](https://www.getlokalapp.com)**
+22. **[Cult.fit](https://www.cult.fit)**
+23. **[SuperKalam](https://superkalam.com)**
+24. **[Matiks](https://www.matiks.com)**
+25. **[Orbit wallet](https://www.orbitwallet.in)**
+26. **[Kotak(811)](https://www.kotak.com)**
+27. **[Clinikally](https://www.clinikally.com)**
