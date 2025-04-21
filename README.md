@@ -63,3 +63,4 @@
 32. **[Leap Wallet](https://www.leapwallet.io)**
 33. **[Sharechat](https://sharechat.com/)**
 33. **[MakeMyTrip](https://www.makemytrip.com)**
+34. **[Swish](https://www.justswish.in)**
