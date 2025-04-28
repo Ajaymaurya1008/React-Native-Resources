@@ -64,3 +64,5 @@
 33. **[Sharechat](https://sharechat.com/)**
 33. **[MakeMyTrip](https://www.makemytrip.com)**
 34. **[Swish](https://www.justswish.in)**
+35. **[MagicPin](https://magicpin.in)**
+36. **[MamaEarth](https://mamaearth.in)**
