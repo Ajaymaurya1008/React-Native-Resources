@@ -66,3 +66,4 @@
 34. **[Swish](https://www.justswish.in)**
 35. **[MagicPin](https://magicpin.in)**
 36. **[MamaEarth](https://mamaearth.in)**
+37. **[Swiggy](https://www.swiggy.com)**
