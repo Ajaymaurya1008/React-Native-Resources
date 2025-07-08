@@ -27,6 +27,12 @@
 3. **[React Native Vector Icons](https://oblador.github.io/react-native-vector-icons)**
 4. **[Flat Icon](https://www.flaticon.com/)**
 
+### Opesource Products
+
+1. **[Blue Sky](https://github.com/bluesky-social/social-app)**
+2. **[Mattermost](https://github.com/mattermost/mattermost-mobile)**
+3. **[Expensify](https://github.com/Expensify/App)**
+
 ### Companies using React Native
 
 1. **[Discord](https://discord.com/blog/category/engineering)**
