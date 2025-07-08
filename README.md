@@ -30,8 +30,8 @@
 ### Opesource Products
 
 1. **[Blue Sky](https://github.com/bluesky-social/social-app)**
-2. **[Mattermost](https://github.com/mattermost/mattermost-mobile)**
-3. **[Expensify](https://github.com/Expensify/App)**
+2. **[Expensify](https://github.com/Expensify/App)**
+3. **[Mattermost](https://github.com/mattermost/mattermost-mobile)**
 
 ### Companies using React Native
 
